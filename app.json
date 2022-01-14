@@ -3,6 +3,7 @@
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
+    "logo"=https://telegra.ph/file/5332ef7ba89164393bdca.jpg"
       "telegram",
       "auto-filter",
       "filter",
