@@ -118,3 +118,16 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot"""
+
+
+
+SONG_TXT ="""<b>SONG MODULE</b>
+Song Download
+Song Download Module, For Those Who Love Music
+
+🎈 Command
+
+- /song [Song Name] - To Download Music
+
+Usage
+- working pm and groups""" Made by @M_STER_TECH_GROUP
