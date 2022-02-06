@@ -14,7 +14,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Thor is a open source project. 
-- Source - https://github.com/raihanvaliyakath/THOR-THE-AUTO-FILTER-BOT>CLICK HERE</a>"""
+- Source - https://t.me/ippokittumnokkininno>CLICK HERE</a>"""
 <b>DEVS:</b>
 - <a href=https://t.me/TeamThorMakers>Team Thor makers</a>"""
 
